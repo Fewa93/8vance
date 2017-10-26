@@ -4,6 +4,13 @@ Dieses Repository enthält eine Präsentation über das Startup [8vance](https:/
 
 Hochschule Ravensburg-Weingarten
 
+## ToDo
+
+- [ ] Layout der Präsentation anpassen
+- [ ] Foliennummer und Datum auf Folien platzieren
+- [ ] Quellen / Zitierweise überprüfen
+
+
 ## Authors
 
 * **Christian Högerle**
