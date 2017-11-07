@@ -1,4 +1,4 @@
-8vance Logo: https://pbs.twimg.com/profile_images/718051214706008064/e6hMIq4g.jpg
+﻿8vance Logo: https://pbs.twimg.com/profile_images/718051214706008064/e6hMIq4g.jpg
 8vance Kampagne: https://8vance.com/wp-content/uploads/2016/07/8vance-wallpaperklein.jpg
 Lizenzgebühr Preisübersicht: https://8vance.com/de/what-we-do/#Lizenzgeb%C3%BChr
 Lizenzgebühr FullService: https://8vance.com/de/what-we-do/#Full-Service 
@@ -8,3 +8,9 @@ BDU- Ergebnisse-marktstudie-personalberatung-2016  https://www.bdu.de/media/1950
 BDU - Personalberatung Honorargestaltung 2016: https://www.bdu.de/media/296191/personalberatung-in-deutschland-2016.pdf
 BPM - Headhunting: https://www.bpm.de/sites/default/files/petry_bpm_headhunting_studie_210x297mm_final_web.pdf
 Fakten zu Headhuntern: https://www.experteer.de/magazin/5-fakten-die-sie-ueber-headhunter-wissen-sollten/
+Glühbirne: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_L9LTigk1S0aUTbwV98LrnHeyBbghbjW7wtSr8VmNcuD6MZNyGA
+Niederlande: https://de.wikipedia.org/wiki/Datei:Flag_of_the_Netherlands.svg
+Deutschland: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/2000px-Flag_of_Germany.svg.png
+Wacom: https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAOZAAAAJDJiZTFkZDM5LTY1NjEtNGUyYi04Y2NhLTFkMjc3Mzk1Y2E2YQ.png
+Han Stoffels: https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAALRAAAAJGY0MDA0MzcxLThiZjgtNGNmNi04MjVhLTAxZWFhN2E1NTliNQ.jpg
+Standort: https://www.google.de/maps/dir/8vance,+Kazernestraat+19,+5928+NL+Venlo,+Niederlande//@51.6356611,7.4512539,7.75z/data=!4m8!4m7!1m5!1m1!1s0x47c75ab58ee846cd:0x636a481fe361ebcd!2m2!1d6.1555157!2d51.3741604!1m0
